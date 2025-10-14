@@ -1,0 +1,3 @@
+This is just a test file
+What I add here means absolutely nothing
+I am just learning how to use Git
